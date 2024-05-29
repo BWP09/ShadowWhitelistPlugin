@@ -1,0 +1,8 @@
+name: ShadowWhitelist
+version: '1.0-SNAPSHOT'
+main: me.bwp09.shadowwhitelist.ShadowWhitelist
+api-version: '1.20'
+load: STARTUP
+authors: [BWP09]
+description: A plugin that makes the server appear offline to players that aren't whitelisted.
+website: https://bwp-dev.com
